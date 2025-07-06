@@ -2,7 +2,6 @@
 
 A sleek, responsive, and minimal developer portfolio website built with **HTML**, **Tailwind CSS**, and **JavaScript**.
 
-![Portfolio Preview](./preview.png) <!-- Replace with actual preview image path -->
 
 ## 🖥️ Live Demo
 
