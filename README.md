@@ -6,7 +6,7 @@ A sleek, responsive, and minimal developer portfolio website built with **HTML**
 
 ## 🖥️ Live Demo
 
-🌐 [View Live Portfolio]([https://your-portfolio.vercel.app](https://elizabethyonas.github.io/UGR-6912-14-tailwind/src/Home.html))  
+🌐 [View Live Portfolio]((https://elizabethyonas.github.io/UGR-6912-14-tailwind/src/Home.html))  
 
 ---
 
